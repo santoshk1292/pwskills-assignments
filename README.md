@@ -1,1 +1,2 @@
-# pwskills-assignments-1
+# pwskills-assignments
+This repo containts the pwskills assignments
