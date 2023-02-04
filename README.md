@@ -1,2 +1,2 @@
 # pwskills-assignments
-This repo containts the pwskills assignments
+This repo contains pwskills assignments of Data Science Masters Program
